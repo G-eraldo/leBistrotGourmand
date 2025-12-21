@@ -1,3 +1,4 @@
+<!-- eslint-disable vue/first-attribute-linebreak -->
 <template>
   <div class="font-body text-slate-800 bg-slate-50">
 
