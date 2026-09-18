@@ -5,7 +5,7 @@
     <nav class="fixed w-full z-50 transition-all duration-300"
       :class="isScrolled ? 'bg-white shadow-md py-2' : 'bg-transparent py-6 text-white'">
       <div class="container mx-auto px-6 flex justify-between items-center">
-        <a href="#" class="text-2xl font-serif font-bold tracking-wider uppercase">
+        <a href="#" class="text-2xl font-serif font-bold tracking-wider uppercase hover:text-amber-500 transition-colors">
           Le Bistro Gourmand
         </a>
 
