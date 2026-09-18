@@ -114,6 +114,7 @@
             <div class="space-y-4">
               <p>📍 12 Rue de la Gastronomie,<br>75001 Paris</p>
               <p>📞 01 23 45 67 89</p>
+              <p>📞 <a href="tel:0322000000" class="underline">03 22 00 00 00</a></p>
               <p>✉️ reservation@bistrogourmand.fr</p>
             </div>
           </div>
