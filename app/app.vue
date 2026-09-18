@@ -112,7 +112,7 @@
           <div>
             <h3 class="text-2xl font-serif font-bold mb-6">Informations</h3>
             <div class="space-y-4">
-              <p>📍 12 Rue de la Gastronomie,<br>75001 Paris</p>
+              <p>📍 12 Rue du Restaurant,<br>75001 Paris</p>
               <p>📞 <a href="tel:0322000000" class="underline">03 22 00 00 00</a></p>
               <p>✉️ reservation@bistrogourmand.fr</p>
             </div>
