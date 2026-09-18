@@ -155,7 +155,7 @@
     </section>
 
     <footer class="bg-slate-900 text-slate-500 py-8 text-center text-sm border-t border-slate-800">
-      <p>&copy; 2026 Le bistrot gourmand tous droits réservés — site édité par
+      <p>&copy; 2026 Le Bistro Gourmand tous droits réservés — site fiction pour Portfolio — site édité par
         <a href="https://lafabriqueducode.fr" target="_blank" rel="noopener noreferrer"
           class="text-slate-300 underline hover:text-white transition-colors">La Fabrique du Code</a>
       </p>
