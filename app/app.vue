@@ -176,7 +176,7 @@ const menu = {
   mains: [
     { name: "Magret de Canard", price: 26, desc: "Miel et épices, purée de patates douces" },
     { name: "Tartare de Bœuf au Couteau", price: 22, desc: "Préparé minute, frites maison" },
-    { name: "Pavé de Lieu Jaune", price: 24, desc: "Légumes de saison glacés et beurre blanc" },
+    { name: "Filet de Dorade", price: 24, desc: "Légumes de saison glacés et beurre blanc" },
   ]
 };
 
